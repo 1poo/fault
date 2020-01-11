@@ -1,4 +1,4 @@
-package net.varunramesh.fault;
+package com.checkthisoutproductions.fault;
 import android.os.Bundle;
 import android.util.Log;
 
